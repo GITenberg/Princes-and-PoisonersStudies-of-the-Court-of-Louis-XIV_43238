@@ -1,0 +1,36 @@
+_repo: Princes-and-PoisonersStudies-of-the-Court-of-Louis-XIV_43238
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Maidment, George
+    gutenberg_agent_id: '42083'
+    url: http://www.gutenberg.org/2009/agents/42083
+covers:
+- cover_type: archival
+  image_path: 43238-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Funck-Brentano, Frantz
+    aliases:
+    - Funck-Brentano, Jacques Chretien Frantz Seraphicus
+    - Funck-Brentano, Jacques Chrétien Frantz Seraphicus
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '42082'
+    url: http://www.gutenberg.org/2009/agents/42082
+description: ''
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poisoners'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcc 'HV'
+- !lcsh 'France -- Court and courtiers'
+title: 'Princes and Poisoners: Studies of the Court of Louis XIV'
+url: http://www.gutenberg.org/ebooks/43238
